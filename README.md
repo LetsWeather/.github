@@ -1,3 +1,0 @@
-# LetsWeather
-
-Coming soon!
